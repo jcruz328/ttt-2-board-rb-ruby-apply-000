@@ -2,10 +2,10 @@
 
 board = Array.new(9, " ")
 
-class Board
+# class Board
   
-  def initialize(size)
-    @board = Array.new(size, " ")
-  end
+#   def initialize(size)
+#     @board = Array.new(size, " ")
+#   end
   
-end
+# end
